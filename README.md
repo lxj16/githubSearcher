@@ -1,2 +1,2 @@
 # githubSearcher
-A  simple github searching to practice using API.
+A  simple github profile searching app to practice using API.
