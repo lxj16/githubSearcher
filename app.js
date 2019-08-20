@@ -28,6 +28,3 @@ searchUser.addEventListener("keyup", e => {
     ui.clearProfile();
   }
 });
-const ow = new Overwatch();
-
-ow.getProfile("battlenet", "lxj16#1450");
